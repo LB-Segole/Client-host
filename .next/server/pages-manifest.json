@@ -1,1 +1,6 @@
-{"/_app":"pages/_app.js","/_error":"pages/_error.js","/":"pages/index.html","/Calls":"pages/Calls.html","/Agents":"pages/Agents.html","/CallDetails":"pages/CallDetails.html","/Dashboard":"pages/Dashboard.html","/NotFound":"pages/NotFound.html","/Login":"pages/Login.html","/Home":"pages/Home.html","/Settings":"pages/Settings.html","/Profile":"pages/Profile.html","/Register":"pages/Register.html","/_document":"pages/_document.js","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
+}
